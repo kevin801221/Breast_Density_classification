@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kevinluo/breast_density_classification/train_classifier/mlruns/817387329117699880/d5dbe8a802654928a5004408b9308311/artifacts
+end_time: 1683447627597
+entry_point_name: ''
+experiment_id: '817387329117699880'
+lifecycle_stage: active
+run_id: d5dbe8a802654928a5004408b9308311
+run_name: unleashed-yak-501
+run_uuid: d5dbe8a802654928a5004408b9308311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683447625609
+status: 4
+tags: []
+user_id: kevinluo

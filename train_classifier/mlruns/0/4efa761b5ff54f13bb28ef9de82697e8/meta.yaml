@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kevinluo/breast_density_classification/train_classifier/mlruns/0/4efa761b5ff54f13bb28ef9de82697e8/artifacts
+end_time: 1682386228959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4efa761b5ff54f13bb28ef9de82697e8
+run_name: bittersweet-stag-761
+run_uuid: 4efa761b5ff54f13bb28ef9de82697e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682386228412
+status: 4
+tags: []
+user_id: kevinluo

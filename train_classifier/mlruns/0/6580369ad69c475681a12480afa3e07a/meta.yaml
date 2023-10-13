@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kevinluo/breast_density_classification/train_classifier/mlruns/0/6580369ad69c475681a12480afa3e07a/artifacts
+end_time: 1682386698287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6580369ad69c475681a12480afa3e07a
+run_name: abrasive-stoat-843
+run_uuid: 6580369ad69c475681a12480afa3e07a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682386696984
+status: 4
+tags: []
+user_id: kevinluo

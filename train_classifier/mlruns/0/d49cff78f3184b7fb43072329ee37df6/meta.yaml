@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kevinluo/breast_density_classification/train_classifier/mlruns/0/d49cff78f3184b7fb43072329ee37df6/artifacts
+end_time: 1682386216744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d49cff78f3184b7fb43072329ee37df6
+run_name: puzzled-kite-481
+run_uuid: d49cff78f3184b7fb43072329ee37df6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682386216458
+status: 4
+tags: []
+user_id: kevinluo

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kevinluo/breast_density_classification/train_classifier/mlruns/284190990691423298/121cf097fc614049ad6c60e6e9fcd620/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '284190990691423298'
+lifecycle_stage: active
+run_id: 121cf097fc614049ad6c60e6e9fcd620
+run_name: test_2023-04-25
+run_uuid: 121cf097fc614049ad6c60e6e9fcd620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682419496348
+status: 1
+tags: []
+user_id: kevinluo

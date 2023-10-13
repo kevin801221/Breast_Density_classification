@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kevinluo/breast_density_classification/train_classifier/mlruns/0/e22fd49196fb4494aa5f29a567340b88/artifacts
+end_time: 1682388034973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e22fd49196fb4494aa5f29a567340b88
+run_name: caring-stoat-266
+run_uuid: e22fd49196fb4494aa5f29a567340b88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682388034666
+status: 4
+tags: []
+user_id: kevinluo

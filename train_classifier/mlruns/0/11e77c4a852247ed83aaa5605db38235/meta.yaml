@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kevinluo/breast_density_classification/train_classifier/mlruns/0/11e77c4a852247ed83aaa5605db38235/artifacts
+end_time: 1682336287755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11e77c4a852247ed83aaa5605db38235
+run_name: worried-finch-711
+run_uuid: 11e77c4a852247ed83aaa5605db38235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682336231843
+status: 4
+tags: []
+user_id: kevinluo

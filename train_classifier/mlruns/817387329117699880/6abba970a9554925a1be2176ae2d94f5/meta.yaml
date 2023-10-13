@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kevinluo/breast_density_classification/train_classifier/mlruns/817387329117699880/6abba970a9554925a1be2176ae2d94f5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '817387329117699880'
+lifecycle_stage: active
+run_id: 6abba970a9554925a1be2176ae2d94f5
+run_name: angry-snake-929
+run_uuid: 6abba970a9554925a1be2176ae2d94f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683625931980
+status: 1
+tags: []
+user_id: kevinluo

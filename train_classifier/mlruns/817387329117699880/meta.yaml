@@ -1,0 +1,6 @@
+artifact_location: file:///home/kevinluo/breast_density_classification/train_classifier/mlruns/817387329117699880
+creation_time: 1683444291468
+experiment_id: '817387329117699880'
+last_update_time: 1683444291468
+lifecycle_stage: active
+name: Resnet101model_baseline
